@@ -1,5 +1,5 @@
 {
-  "name": "msg-generator",
+  "name": "msg-comunication-generator",
   "version": "1.0.0",
   "description": "Gerador de classe de mensagens a partir de schema JSON",
   "main": "index.js",
